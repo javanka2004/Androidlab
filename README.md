@@ -1,5 +1,5 @@
-# Dota_android_lab
-# Брехов лабораторная работа по Android
- ![Screenshot_20240226_033927](https://github.com/perieviertysh/Dota_android_lab/assets/146692912/565792cf-7473-4e5e-8cf8-687c54bc689f)
-![Screenshot_20240226_033857](https://github.com/perieviertysh/Dota_android_lab/assets/146692912/1c2269aa-2767-444c-8b0a-72b93a48e234)
-
+# Android
+Юлиана Загваздина МИБ-101
+ 
+![Screenshot_20240226_040921](https://github.com/javanka2004/Android/assets/153029815/4a085f6e-4111-473b-a426-be0c46bccaf4)
+![Screenshot_20240226_040939](https://github.com/javanka2004/Android/assets/153029815/267c47bc-7e61-4ee6-8300-cbfcb030bb5a)
